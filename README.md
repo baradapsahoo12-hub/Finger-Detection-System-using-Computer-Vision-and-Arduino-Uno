@@ -71,7 +71,7 @@ python finger_detection.py
 🎥 Demo Video
 
 👉 Watch the demo here:
-[https://drive.google.com/file/d/10gFJWcxmcgwXL8rO6SDrvymvLwN8tkbN/view?usp=sharing]
+[https://drive.google.com/file/d/1vTfMrUyf7N_FkoGVcxg9iesaVshJzSsb/view?usp=drive_link]
 
 ⚠️ Important Notes
 Ensure proper lighting conditions
